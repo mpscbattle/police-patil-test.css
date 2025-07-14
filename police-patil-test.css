@@ -1,15 +1,15 @@
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #ffffff;
-  padding: 5px;
+  background-color: #f4f6f8;
+  padding: 10px;
   margin: 0;
 }
 
 .feature-box {
   background-color: #ffffff;
-  padding: 5px;
+  padding: 10px;
   border-radius: 5px;
-  border-left: 5px solid #3498db;
+  border-left: 6px solid #3498db;
   max-width: 100%;
   width:100%;
   margin: auto;
@@ -43,7 +43,7 @@ body {
   border-left: 4px solid #f1c40f;
   border-radius: 5px;
   margin-top: 25px;
-  margin-bottom:30px;
+  margin-bottom:5px;
   font-size: 15px;
   color: #333;
 }
